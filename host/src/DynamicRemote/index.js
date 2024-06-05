@@ -1,0 +1,1 @@
+export { DynamicRemote } from './DynamicRemote';
